@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Perforce\GP2_FG_Team7\FG20FT_GP2_Team7\FG_GP2_Team7_Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Editor" t="Include">
+            <e p="Lib" t="Include">
+              <e p="EditorLib.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Gameplay" t="Include">
+            <e p="Interactable.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="GameManager.cs" t="Include" />
+          </e>
+          <e p="Mechanics" t="Include">
+            <e p="JStateMachine.cs" t="Include" />
+            <e p="StateMachine.cs" t="Include" />
+          </e>
+          <e p="Objects" t="Include">
+            <e p="General_Abstract" t="Include">
+              <e p="BehaviourAvatar.cs" t="Include" />
+              <e p="CollisionModule.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="GameCharacterEditor.cs" t="Include" />
+              </e>
+              <e p="GameCharacter.cs" t="Include" />
+              <e p="IControllable.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="InteractableRaycaster.cs" t="Include" />
+              <e p="Nytt textdokument.txt" t="Include" />
+              <e p="PlayerAvatar.cs" t="Include" />
+              <e p="PlayerCameraController.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ScriptableObjects" t="Include">
+            <e p="MovementData.cs" t="Include" />
+          </e>
+          <e p="Sebbes Test Scripts" t="Include">
+            <e p="rotatePlayer.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="FG_GP2_Team7_Project.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Sebastian.Akerlund\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Sebastian.Akerlund\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_FG_GP2_Team7_Project.-589297625.00" t="ExcludeRecursive" />
+  </component>
+</project>
